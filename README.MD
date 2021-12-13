@@ -94,8 +94,8 @@ then goto the <a href="#mandatory-vars">variables tab</a> for more info on setti
 
 
 ```py
-git clone https://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@github.com/code-x-mania/railway_project
-cd railway_project
+git clone https://github.com/Code-X-Mania/Filestreambot-upgraded
+cd Filestreambot-upgraded
 virtualenv -p /usr/bin/python3 venv
 . ./venv/bin/activate
 pip install -r requirements.txt
@@ -168,7 +168,8 @@ DATABASE_URL=mongodb_uri
 `/start` : To check if the bot is alive or not.
 
 To get an instant stream link, just forward any media to the bot and boom, its fast af.
-  ![image](https://user-images.githubusercontent.com/88939380/137128326-059f9c53-b3d0-40f0-8484-b17709fbcc11.png)
+  
+![image](https://user-images.githubusercontent.com/88939380/145798095-3cdad108-96b0-4391-a540-cad144d6b864.png)
 
 
 ### Channel Support
