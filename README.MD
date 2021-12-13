@@ -1,15 +1,15 @@
-![GitHub Repo stars](https://img.shields.io/github/stars/code-x-mania/Filestreambot-upgraded?color=blue&style=flat)
-![GitHub forks](https://img.shields.io/github/forks/code-x-mania/Filestreambot-upgraded?color=green&style=flat)
-![GitHub contributors](https://img.shields.io/github/contributors/code-x-mania/Filestreambot-upgraded?style=flat)
-![GitHub repo size](https://img.shields.io/github/repo-size/code-x-mania/Filestreambot-upgraded?color=yellow)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/code-x-mania/Filestreambot-upgraded)
-![GitHub](https://img.shields.io/github/license/code-x-mania/Filestreambot-upgraded)
+![GitHub Repo stars](https://img.shields.io/github/stars/code-x-mania/Filestreambot-pro?color=blue&style=flat)
+![GitHub forks](https://img.shields.io/github/forks/code-x-mania/Filestreambot-pro?color=green&style=flat)
+![GitHub contributors](https://img.shields.io/github/contributors/code-x-mania/Filestreambot-pro?style=flat)
+![GitHub repo size](https://img.shields.io/github/repo-size/code-x-mania/Filestreambot-pro?color=yellow)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/code-x-mania/Filestreambot-pro)
+![GitHub](https://img.shields.io/github/license/code-x-mania/Filestreambot-pro)
 [![Bot Support](https://img.shields.io/badge/File%20Stream%20Bot-support%20group-blue)](https://t.me/codexmania)
 
 
 <h1 align="center">FileStreamBot</h1>
 <p align="center"> 
-  <img src="https://socialify.git.ci/Code-X-Mania/Filestreambot-upgraded/image?description=1&descriptionEditable=A%20very%20fast%20file%20streaming%20bot%20used%20for%20streaming%20and%20downloading%20movies&font=Source%20Code%20Pro&forks=1&issues=1&language=1&logo=https%3A%2F%2Fuser-images.githubusercontent.com%2F88939380%2F137127129-a86fc939-2931-4c66-b6f6-b57711a9eab7.png&owner=1&pattern=Circuit%20Board&pulls=1&stargazers=1&theme=Dark" alt="Cover Image" width="650">
+  <img src="https://socialify.git.ci/Code-X-Mania/Filestreambot-pro/image?description=1&descriptionEditable=A%20very%20fast%20file%20streaming%20bot%20used%20for%20streaming%20and%20downloading%20movies&font=Source%20Code%20Pro&forks=1&issues=1&language=1&logo=https%3A%2F%2Fuser-images.githubusercontent.com%2F88939380%2F137127129-a86fc939-2931-4c66-b6f6-b57711a9eab7.png&owner=1&pattern=Circuit%20Board&pulls=1&stargazers=1&theme=Dark" alt="Cover Image" width="650">
   </a>
 
  <p align="center">
@@ -17,9 +17,9 @@
     <br />
    </strong></a>
     <br />
-    <a href="https://github.com/code-x-mania/FileStreamBot/issues">Report a Bug</a>
+    <a href="https://github.com/code-x-mania/FileStreamBotpro/issues">Report a Bug</a>
     |
-    <a href="https://github.com/code-x-mania/FileStreamBot/issues">Request Feature</a>
+    <a href="https://github.com/code-x-mania/FileStreamBot-pro/issues">Request Feature</a>
   </p>
 
 
@@ -94,8 +94,8 @@ then goto the <a href="#mandatory-vars">variables tab</a> for more info on setti
 
 
 ```py
-git clone https://github.com/Code-X-Mania/Filestreambot-upgraded
-cd Filestreambot-upgraded
+git clone https://github.com/Code-X-Mania/Filestreambot-pro
+cd Filestreambot-pro
 virtualenv -p /usr/bin/python3 venv
 . ./venv/bin/activate
 pip install -r requirements.txt
@@ -177,7 +177,7 @@ Bot also Supported with Channels. Just add bot Channel as Admin. If any new file
 
 ### Credits : 
 
-- [Adarsh Goel_(me)](https://t.me/codexmania)
+- [Adarsh Goel_(me)](https://github.com/code-x-mania)
 - [EverythingSuckz](https://github.com/EverythingSuckz) 
 - [Jigar Varma](https://github.com/jigarvarma2005)
 - Everyone In This Journey !
