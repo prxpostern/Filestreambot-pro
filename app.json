@@ -1,6 +1,6 @@
 {
   "name": "Adarsh-FileStreamBot",
-  "description": "A Pyrogram Telegram bot to Stream Telegram files to web. @adarsh_status_bot",
+  "description": "A Pyrogram Telegram bot to Stream Telegram files to web. @adarshgoel",
   "keywords": [
       "telegram",
       "stream",
@@ -13,10 +13,10 @@
       "media",
       "bot"
     ],
-  "repository": "https://github.com/code-x-mania/FileStreamBot/",
+  "repository": "https://github.com/code-x-mania/FileStreamBot-pro/",
   "success_url": "/",
   "logo": "https://i.ibb.co/MnMZ1Sy/download-1.jpg",
-  "website": "http://adarsh.tk",
+  "website": "http://adarsh.eu.org",
   "env": {
       "ENV": {
           "description": "Set this to True if you don't want to crash the bot",
@@ -77,6 +77,11 @@
       },
       "HAS_SSL": {
           "description": "Default value is True",
+          "value": "True",
+          "required": false
+      },
+       "MY_PASS": {
+          "description": "Default value is None",
           "value": "True",
           "required": false
       },
