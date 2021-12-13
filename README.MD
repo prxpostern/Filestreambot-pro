@@ -47,7 +47,6 @@ Either you could locally host or deploy on [Heroku](https://heroku.com)
 <br>
 
 
-![image](https://user-images.githubusercontent.com/88939380/137126452-80e760d4-4820-440b-9962-72e7e81adfb4.png)
 
 
 #### ♢ Click on This Drop-down and get more details
